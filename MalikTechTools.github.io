@@ -1,4 +1,4 @@
-Https://MalikTechTools.github.io
+https://MalikTechTools.github.io/
 // Shona Malik Tech Tools
 
 
